@@ -6,7 +6,7 @@
 parts of a page  like header  , footer  like :
 
 
--   footer  for & copy; 2011 Yoko's Kitchen footer 
+-   footer  for & copy; 
 
 
  - They usually use header for the main contact and information and we use footer to copyright  .
