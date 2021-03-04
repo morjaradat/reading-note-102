@@ -4,7 +4,7 @@
 
       read | read 
       ------|------
-| read 02b :  https://morjaradat.github.io/reading-note/ | rebo :  | 
-| read 03a : https://morjaradat.github.io/reading-note/read03a | ------------| 
-| read 04  : https://morjaradat.github.io/reading-note/read04 | :------------| :------------| 
-| read 04b : https://morjaradat.github.io/reading-note/rad04b
+| read 02b :  https://morjaradat.github.io/reading-note/ |  -----------------
+| read 03a : https://morjaradat.github.io/reading-note/read03a  |---------------
+| read 04  : https://morjaradat.github.io/reading-note/read04 | --------------
+| read 04b : https://morjaradat.github.io/reading-note/rad04b | -----------------
