@@ -1,6 +1,8 @@
 # Introdation
-My name 
-| read 1      | read 2     | Column 3     |
-| :------------- | :----------: | -----------: |
-|  Cell Contents | More Stuff   | And Again    |
-| You Can Also   | Put Pipes In | Like this \| |
+- My name is Mohammad Jaradat.I have a bachelor's degree in chemistry from Yarmouk University . I interested in this course because I want to develop my skills . 
+
+
+| read 1      | read 2     | read 3     | Column 3     |
+| :------------- | :----------: | -----------: | :------------- |
+|  :------------ | :------------| :------------| :------------- |
+| :------------  | :------------| :------------| :-------------\|
