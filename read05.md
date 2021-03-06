@@ -38,7 +38,7 @@
 - the loop should continue to run until the counter reaches a specified number .
 3. update 
 - every time  the loop has run the statement in the curly braces , it adds one to the counter .
-![photo5](6.png)
+![photo6](6.png)
 
 
 ### using while loop 
