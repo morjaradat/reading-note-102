@@ -1,5 +1,5 @@
 # HTML && CSS
- -When you visit a website, the web server hosting that site could be anywhere in the world. In order for you to find the location of the web server, your browser will first connect to a Domain Name System (DNS) server.
+ - When you visit a website, the web server hosting that site could be anywhere in the world. In order for you to find the location of the web server, your browser will first connect to a Domain Name System (DNS) server.
 see how HTML describes the structure of a web page Learn how tags or elements are added to your document Write your first web page
 
 - It very important to know the different between the versions of HTML
