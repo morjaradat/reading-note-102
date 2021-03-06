@@ -3,9 +3,9 @@
 
 
 
-No. |         Project         | MD Link             | Github Page
+No. |         Project         |  Github Page            | MD Link
 --- | ------------------------| --------------------|--------------------------------
-1   | read 02b :[open](https://morjaradat.github.io/reading-note/)      |------------------
-2   | read 03a :[open](https://morjaradat.github.io/reading-note/read03a)|------------------
-3   | read 04  :[open](https://morjaradat.github.io/reading-note/read04) |------------------
-4   | read 04b :[open](https://morjaradat.github.io/reading-note/rad04b) |------------------
+1   | read 02b | [open](https://morjaradat.github.io/reading-note/)      |[open](https://github.com/morjaradat/reading-note/blob/main/README.md)
+2   | read 03a | [open](https://morjaradat.github.io/reading-note/read03a)|[open](https://github.com/morjaradat/reading-note/blob/main/read03a.md)
+3   | read 04a | [open](https://morjaradat.github.io/reading-note/read04) |[open](https://github.com/morjaradat/reading-note/blob/main/read04.md)
+4   | read 04b | [open](https://morjaradat.github.io/reading-note/rad04b) |[open](https://github.com/morjaradat/reading-note/blob/main/rad04b.md) 
